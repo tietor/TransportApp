@@ -1,4 +1,4 @@
 package ch.teko.transportapp;
 
-public class Station {
+public class Coordinate {
 }
